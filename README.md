@@ -1,2 +1,2 @@
 # TI-collection
-# Code to train TI scout images
+This code is used to train TI-scout imageｓ.
